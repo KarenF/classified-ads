@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClassifiedAds</string>
+    <string name="label_hello">Paintings</string>
+    <string name="bt_like">Like</string>
+    <string name="bt_buy">Buy</string>
+    <string name="bt_like_clicked">Liked</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_hello">Pinturas</string>
+    <string name="bt_like">Gostei</string>
+    <string name="bt_buy">Comprar</string>
+    <string name="bt_like_clicked">Favoritou</string>
+</resources>

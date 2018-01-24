@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size"
+        android:layout_marginTop="@dimen/margin_top"
+        android:gravity="center"
+        android:text="@string/label_hello" />
+
+    <ImageView
+        android:id="@+id/iv_image"
+        android:layout_width="@dimen/image_width"
+        android:layout_height="@dimen/image_height"
+        android:scaleType="fitCenter"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/margin_top"
+        android:src="@drawable/ic_image_1" />
+
+    <LinearLayout
+        android:layout_marginTop="@dimen/margin_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        
+        <Button
+            android:id="@+id/bt_like"
+            style="@style/Base.TextAppearance.AppCompat.Button"
+            android:layout_margin="@dimen/button_margin"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:text="@string/bt_like"
+            android:layout_weight="1" />
+
+        <Button
+            android:id="@+id/bt_buy"
+            style="@style/Base.TextAppearance.AppCompat.Button"
+            android:layout_margin="@dimen/button_margin"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:textAllCaps="false"
+            android:text="@string/bt_buy"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+</LinearLayout>
