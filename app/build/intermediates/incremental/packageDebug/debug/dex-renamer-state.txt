@@ -1,0 +1,4 @@
+#Wed Feb 07 14:30:31 BRST 2018
+base.0=/home/aurora/Desktop/classified-ads/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

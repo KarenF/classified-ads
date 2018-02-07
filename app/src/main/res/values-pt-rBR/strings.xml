@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Classificados</string>
+    <string name="label_hello">Nova Pintura</string>
+    <string name="bt_like">Gostei</string>
+    <string name="bt_buy">Comprar</string>
+    <string name="bt_buy_clicked">Favoritou</string>
+    <string name="new_item">Novo Item</string>
+    <string name="bt_buy_bought">Comprou</string>
+    <string name="item_title">%d Título do Item</string>
+    <string name="item_description">Descrição do Item %d - Curso de Android JAVA 2018</string>
+    <string name="formatted_value">R$ %f</string>
+    <string name="category_name">Categoria %d</string>
+    <string name="bt_filter">Filtrar</string>
+    <string name="list_title">Lista de Itens</string>
+    <string name="activity_item_title">Detalhe do Item</string>
+    <string name="filter_title">Filtro</string>
+    <string name="show_snack">Mostra snackbar</string>
+    <string name="bt_ok">Ok</string>
+    <string name="ok_clicked">Clicou no ok</string>
+    <string name="dialog_title">Parabéns</string>
+    <string name="dialog_msg">Você clicou no snackbar com sucesso</string>
+    <string name="bt_cancel">Cancelar</string>
+</resources>

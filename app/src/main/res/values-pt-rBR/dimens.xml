@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_default">4dp</dimen>
+    <dimen name="text_size_big">32sp</dimen>
+    <dimen name="image_width_land">400dp</dimen>
+    <dimen name="image_height_land">400dp</dimen>
+</resources>

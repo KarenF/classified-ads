@@ -1,7 +1,23 @@
 <resources>
-    <string name="app_name">ClassifiedAds</string>
-    <string name="label_hello">Paintings</string>
+    <string name="app_name">Classified Ads</string>
+    <string name="label_hello">New Painting</string>
     <string name="bt_like">Like</string>
     <string name="bt_buy">Buy</string>
-    <string name="bt_like_clicked">Liked</string>
+    <string name="bt_buy_clicked">Liked</string>
+    <string name="new_item">New Item</string>
+    <string name="bt_buy_bought">Bought</string>
+    <string name="item_title">%d Item Title</string>
+    <string name="item_description">Item Description %d</string>
+    <string name="formatted_value">US$ %f</string>
+    <string name="category_name">Category %d</string>
+    <string name="bt_filter">Filter</string>
+    <string name="list_title">Item List</string>
+    <string name="activity_item_title">Item Detail</string>
+    <string name="filter_title">Filter</string>
+    <string name="show_snack">Show snackbar</string>
+    <string name="bt_ok">Ok</string>
+    <string name="ok_clicked">Ok clicked</string>
+    <string name="dialog_title">Congratulations</string>
+    <string name="dialog_msg">Your click on snackbar was a success</string>
+    <string name="bt_cancel">Cancel</string>
 </resources>
